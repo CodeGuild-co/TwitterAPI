@@ -1,0 +1,10 @@
+<form>
+	<label>
+		<input id='formBox' type="text" name="hashtag" value="{{ hashtag or '' }}" />
+        </label>
+        <input
+        	id='submit-button'
+                type="submit"
+              	value="Submit"
+        />
+</form>
