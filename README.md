@@ -1,4 +1,7 @@
-# VilliersAPI
+# VilliersAPI (TheySaidWhat?!?)
 Twitter Sentiment Analysis
 
-Pratyaksh Sharma
+Creators:
+ - Pratyaksh Sharma
+ - Connor Whelan
+ - Luke Sarfas
