@@ -1,3 +1,8 @@
-# VilliersAPI
+# VilliersAPI (TheySaidWhat?!?)
 Twitter Sentiment Analysis
-Thomas Rees
+
+Creators:
+ - Pratyaksh Sharma
+ - Connor Whelan
+ - Luke Sarfas
+ - Thomas Rees
