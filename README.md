@@ -1,3 +1,6 @@
-# VilliersAPI
+# VilliersAPI (TheySaidWhat?!?)
 Twitter Sentiment Analysis
-LUKE SARFAS
+
+Creators:
+Connor Whelan
+Luke Sarfas
