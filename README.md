@@ -2,5 +2,5 @@
 Twitter Sentiment Analysis
 
 Creators:
-Connor Whelan
-Luke Sarfas
+ - Connor Whelan
+ - Luke Sarfas
